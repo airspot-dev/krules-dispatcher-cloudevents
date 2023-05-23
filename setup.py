@@ -26,7 +26,7 @@ setup(
         'krules-core==0.8.5.1',
         'cloudevents==1.2.0',
         'pytz==2020.5',
-        'requests==2.25.1'
+        'requests==2.31.0'
     ],
     setup_requires=[
         'pytest-runner',
